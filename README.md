@@ -1,3 +1,8 @@
+Computing-Mean-STD-in-Image-Dataset/_notebooks/2021-03-08-image-mean-std.ipynb 
+[Computing Mean & STD in Image Dataset](https://kozodoi.me/python/deep%20learning/pytorch/tutorial/2021/03/08/image-mean-std.html)
+入力画像に対する正規化についての説明とコード
+
+
 # kozodoi.me: Blog on ML, AI and other cool acronyms
 
 ![website_snippet](https://i.postimg.cc/4yLPcHcf/ezgif-com-gif-maker-2.gif)
